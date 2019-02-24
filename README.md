@@ -7,3 +7,7 @@
 ## Purpose
 
 ## How To Constribute.
+
+## Contact us
+
+## Credits
